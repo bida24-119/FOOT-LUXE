@@ -1,1 +1,1 @@
-# FOOT-LUXE
+<!DOCTYPE html>
